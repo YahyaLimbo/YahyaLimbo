@@ -39,5 +39,5 @@ Know more about me, my portfolio, blog and much more on my personal website:
 
 ## 🔰My GitHub Stats
 
-![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noix99&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noix99&layout=compact&theme=radical)
+![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YahyaLimbo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaLimbo&layout=compact&theme=radical)
