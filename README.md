@@ -2,7 +2,7 @@
 
 - My name is Yahya, and I’m a second-year Computer Science student at Nottingham Trent University.
 - Passionate about technology, software development, AI and machine learning.
-- Full-stack developer who enjoys exploring new technologies and applying my skills to real-world applications.
+- Software engineer who enjoys exploring new technologies and applying my skills to real-world applications.
 
 
 ## 🤝 Connect With Me
@@ -26,11 +26,7 @@ Know more about me, my portfolio, blog and much more on my personal website:
   <code><img height="40" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></code>
   <code><img height="40" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></code>
   <code><img height="40" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black"></code>
-  <code><img height="40" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"></code>
-  <code><img height="40" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"></code>
-  <code><img height="40" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white"></code>
   <code><img height="40" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"></code>
-  <code><img height="40" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></code>
   <code><img height="40" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></code>
   <code><img height="40" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
   <code><img height="40" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></code>
