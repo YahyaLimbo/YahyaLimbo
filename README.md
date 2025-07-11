@@ -20,7 +20,8 @@ Know more about me, my portfolio, blog and much more on my personal website:
 
 
 <p align="left">
-  <code><img height="40" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></code>
+  <code><img height="40" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></code>
+  <code><img height="40" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"></code>
   <code><img height="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
   <code><img height="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
   <code><img height="40" src="https://img.shields.io/badge/POSTgreSQL-4479A1?style=for-the-badge&logo=postegresql&logoColor=white"></code>
