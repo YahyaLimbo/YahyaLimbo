@@ -1,8 +1,8 @@
 ## 👦 About Me
 
-- My name is Yahya, and I’m a second-year Computer Science student at Nottingham Trent University.
-- Passionate about technology, software development, AI and machine learning.
-- Software engineer who enjoys exploring new technologies and applying my skills to real-world applications.
+- My name is Yahya, and I’m a graduate Computer Science student at Nottingham Trent University.
+- Passionate about technology, AI/ML and robotics.
+- Software engineer who enjoys exploring technology advancements and applying skills to build real-world solutions.
 
 
 ## 🤝 Connect With Me
