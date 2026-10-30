@@ -1,12 +1,10 @@
 ## 👋 About me
 
-I'm Yahya, a Computer Science graduate from Nottingham Trent University. I build
-AI and robotics software: ROS 2 stacks that run on both simulated and real
-hardware, and perception models trained on synthetic data generated in NVIDIA
-Isaac Sim and Gazebo.
+Pursuing Master degree in Artificial Intelligence at University of Bologna. I build
+Machine Learning / Deep learning and robotics software for perception and Spatial AI. 
 
-Based near Bologna, Italy. Open to AI, computer vision and robotics software
-roles in Italy and German-speaking Europe. Fluent in Italian and English,
+Based near Bologna, Italy. Open to computer vision, ML/Deep leanring and robotics software
+roles in Italy and abroad. Fluent in Italian and English,
 currently learning German.
 
 ## 🚀 Featured projects
